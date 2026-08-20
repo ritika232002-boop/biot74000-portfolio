@@ -42,22 +42,19 @@ organized by what they are used for._
 
 ### BLAST (Basic Local Alignment Search Tool)
 
-**Use example:** [Describe one specific thing you did with BLAST in this course
-— e.g. "I used BLASTn to identify the closest known relatives of a query
-sequence during the Unit 2 alignment activity, and interpreted the E-values and
-query coverage to judge which hits were meaningful."]
+**Use example:** 
+I used BLAST to compare the phoP DNA sequence from Salmonella enterica against database sequences to confirm gene identity and find similar sequences in other organisms
 
-**Strengths / limitations:** [One honest note — e.g. "Fast and easy for finding
-similar sequences, but the top hit by score is not always the most biologically
-relevant, so results need careful interpretation."]
+**Strengths / limitations:** 
+BLAST is fast and useful for finding similar sequences, but it only shows sequence similarity and does not explain biological function
 
----
+### NCBI GEO
 
-### [Tool Name]
+**Use example:** 
+I used NCBI GEO to explore published gene expression datasets and examine processed RNA-seq data
 
-**Use example:** [Your text here.]
-
-**Strengths / limitations:** [Your text here.]
+**Strengths / limitations:** 
+Helpful for finding real gene expression datasets, although understanding study designs can take practice
 
 ---
 
@@ -65,21 +62,40 @@ relevant, so results need careful interpretation."]
 
 ### UniProt
 
-**Use example:** [Describe one specific retrieval or lookup you performed.]
+**Use example:** 
+I used UniProt to explore the NPR3 and PhoP proteins, including their sequences, functions, and annotations.
 
-**Strengths / limitations:** [One honest note.]
+**Strengths / limitations:** 
+Offers detailed protein information and annotations, but some entries may not be fully reviewed.
 
 ---
 
 ## Data Visualization
 
-### [Tool Name]
+### Heatmaps
 
-**Use example:** [Your text here.]
+**Use example:** 
+I used heatmaps to visualize gene expression patterns and compare lead and cadmium data from my capstone project
 
-**Strengths / limitations:** [Your text here.]
+**Strengths / limitations:** 
+Good for identifying patterns and clustering data, but large datasets can become difficult to interpret.
 
 ---
+## Volcano Plots
+
+**Use example:** 
+I used volcano plots to identify significantly upregulated and downregulated genes.
+
+**Strengths / limitations:** 
+Makes it easy to identify significant gene expression changes, but does not explain biological function
+
+## Computational Skills
+
+**Use example:** 
+I used R to organize ICP-MS data from my capstone project, create summary tables, and generate bar graphs and heatmaps
+
+**Strengths / limitations:**
+Supports reproducible data analysis and visualization, but learning programming syntax can be challenging for beginners
 
 <!--
   Add more categories and entries by copying the pattern above.
