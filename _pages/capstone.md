@@ -30,22 +30,17 @@ author_profile: true
 
 ## My Capstone Project
 
-[In 2–4 sentences, describe your capstone project for a general reader. What
-question or problem does it address? Why does it matter? Avoid program-specific
-jargon.]
+My capstone project evaluated two sample preparation methods used to measure lead and cadmium levels in lipstick products using ICP-MS. The goal was to determine how different preparation techniques affect the accuracy of detecting these trace metals. This research is important because heavy metals in cosmetics can pose potential health risks, and reliable testing methods are needed to ensure product safety. The project also highlighted challenges in laboratory analysis and the importance of accurate sample preparation.
 
 ## The Bioinformatics Component
 
-[Describe the specific bioinformatics tool, dataset, or method you applied in
-Assignment 2, and explain why it was the right choice for this problem.]
+For Assignment 2, I used R programming to analyze data from my capstone project on measuring lead and cadmium in lipstick samples. I used R to organize the ICP-MS data, create summary tables, and generate visualizations such as bar graphs and a heatmap. R was the right choice because it allowed me to compare the results from the two sample preparation methods in a clear and organized way
 
-[In plain language, describe what you found or produced. What did the analysis
-tell you?]
+The analysis showed differences in lead and cadmium concentrations between the lipstick samples and the two preparation methods. The graphs and heatmap made it easier to identify patterns and compare the results visually. This helped support the interpretation of the data and improved the communication of our findings.
 
 ## Why It Strengthened My Capstone
 
-[In 1–2 sentences, explain how adding this bioinformatics work made your
-capstone project stronger, more credible, or more complete.]
+Adding bioinformatics skills to my capstone project helped me organize, analyze, and visualize the data more effectively using R. The graphs and heatmap made it easier to compare results between the two sample preparation methods, which improved the interpretation of the data and made the project findings clearer and more professional.
 
 <!--
   OPTIONAL — to embed an image or figure you produced:
