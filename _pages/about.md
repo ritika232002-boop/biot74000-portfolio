@@ -32,12 +32,11 @@ redirect_from:
 Hello — I'm Ritika Badhan, a student in the Bachelor of Applied Biotechnology
 (Honours) program at Conestoga College.
 
-[Write one or two sentences about your professional interests or the direction
-you want your career to take. Be specific: what kind of work in biotechnology
-or bioinformatics interests you, and why?]
-
-[Write one sentence explaining why bioinformatics matters for where you want to
-go. This connects the skills in this portfolio to your goals.]
+I am interested in building a career in microbiology and laboratory-based research. My goal is to work as a Laboratory Technologist or Research Assistant in a microbiology laboratory, where I can apply my knowledge of microbiology, biotechnology, and laboratory techniques to support testing, research, and quality control.
+4
+ 
+5
+Bioinformatics is important to my career goals because modern microbiology laboratories increasingly use genetic and sequence data for microbial identification and analysis. Understanding bioinformatics tools helps me interpret biological data and stay current with advances in the field.
 
 This portfolio documents the bioinformatics tools, methods, and skills I have
 developed, and how I have applied them.
