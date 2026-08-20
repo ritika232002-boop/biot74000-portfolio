@@ -37,9 +37,7 @@ _Skills I can perform independently, explain to others, and apply in a new situa
 
 | Skill / Tool | What I can do with it |
 |---|---|
-| [e.g. BLAST sequence searches] | [e.g. Run and interpret nucleotide and protein searches independently] |
-| [Skill / Tool] | [What you can do] |
-| [Skill / Tool] | [What you can do] |
+| None at this time|At this stage of my learning, I do not yet consider any of my bioinformatics skills to be at the intermediate or advanced level. Most of my experience has been gained through guided coursework and class activities.
 
 ## Beginner / Basic Exposure
 
@@ -47,6 +45,17 @@ _Skills I have used in a guided setting and would need support to apply independ
 
 | Skill / Tool | Level of experience |
 |---|---|
-| [e.g. Command-line navigation] | [e.g. Can run provided commands; not yet writing my own] |
-| [Skill / Tool] | [Your experience] |
-| [Skill / Tool] | [Your experience] |
+| NCBI | Can search for genes, retrieve sequence information, obtain Gene IDs, and download FASTA files |
+| BLAST | Can perform sequence similarity searches and interpret E-values, percent identity, and query coverage |
+| Clustal Omega | Can perform basic multiple sequence alignments and identify conserved regions among species. |
+|UCSC Genome Browser|Can locate genes, view genomic regions, and examine transcript information.|
+|Ensembl Genome Browser|Can retrieve gene and transcript annotations and compare information between databases.|
+|ClinVar|Can investigate genetic variants and review their clinical significance|
+|NCBI GEO|Can explore gene expression datasets and understand study design and available data|
+|DESeq2|Can interpret differential gene expression results using log2 fold change and adjusted p-values|
+|Volcano Plots|Can identify significantly upregulated and downregulated genes from RNA-seq results.|
+|Heatmaps|Can interpret expression patterns and compare relationships among genes and samples|
+|UniProt|Can retrieve protein sequences, functions, annotations, and protein features|
+|AlphaFold|Can view predicted protein structures and interpret pLDDT confidence score|
+|R Programming|Can run basic commands, import data, organize datasets, and create simple visualizations.|
+|Data Visualization|Can create and interpret bar graphs, heatmaps, and other basic visualizations for biological data.|
